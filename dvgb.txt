@@ -1,1 +1,8 @@
-bvx
+after adding shit
+
+right click and git bash here
+
+1. git status
+2. git add filename or .
+3. git commit -m 'commit message here'
+4. git push
